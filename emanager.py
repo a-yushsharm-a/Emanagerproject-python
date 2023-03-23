@@ -11,7 +11,7 @@ li=[["maggie",12,40],
     ["soap",80,40], 
     ["brush",20,40], 
     ["shampoo",60,40], 
-    ["conditionar",50,40], 
+    ["conditionar",50,40], #this one is another change as an colaborator
     ["facewash",60,40], 
     ["perfume",140,40], 
     ["cream",50,40],
