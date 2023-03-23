@@ -26,8 +26,8 @@ li=[["maggie",12,40],
 print("HELLO WELCOME TO E-MANGAER")
 m="y"
 count=100000
-while m=="y":
-    bill=""
+while m=="y":#this is the new change made for commit
+    bill=""#hope this works
     b=0
     print("PRESS 1 FOR Billing System")
     print("PRESS 2 FOR Stock Management, Updation and Availability")
